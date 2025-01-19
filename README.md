@@ -2,6 +2,7 @@
 
 ## 🚀 Overview
 This project demonstrates the creation of a custom rule in Wazuh to detect **Mimikatz**, a popular credential dumping tool used in cyber attacks. By leveraging **Sysmon logs**, this custom rule is tailored to spot Mimikatz activity even when the executable is renamed, ensuring your systems are protected against stealthy attacks.
+![image](https://github.com/user-attachments/assets/23aaf254-f297-48a7-8fe4-bef29a951000)
 
 ## 🔧 Features
 - **Custom Rule Creation**: Learn how to create and configure custom detection rules in Wazuh.
