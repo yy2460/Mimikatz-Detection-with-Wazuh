@@ -32,7 +32,6 @@ Mimikatz is often used in post-exploitation attacks to dump credentials from a c
    Run a test by renaming the Mimikatz executable and check if the alert triggers correctly.
 
 ## 📸 Screenshots
-(Here, add a screenshot of the Wazuh dashboard showing the alert triggered by the renamed Mimikatz executable.)
 
 ## 📁 Setup Instructions
 1. Clone this repository:
